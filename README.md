@@ -10,3 +10,4 @@ windows first convert clonebot.py to exe) Next type B to CenterDos.py and enter 
 After, wait until your bot or bots connect to CenterDos# zyxDDoS
 # zyxDDoS
 # zyxDDoS
+# zyxDDoS
