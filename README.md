@@ -8,3 +8,4 @@ Run the CenterDos.py again and follow the previous steps until you come where yo
 path to copy files which have been sended to target. Then, send bot-dir to target without extracting anything within, (if targets OS is
 windows first convert clonebot.py to exe) Next type B to CenterDos.py and enter the target ip or domain.
 After, wait until your bot or bots connect to CenterDos# zyxDDoS
+# zyxDDoS
